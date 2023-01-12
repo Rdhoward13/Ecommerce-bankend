@@ -8,7 +8,7 @@ class Product extends Model {}
 
 // set up fields and rules for Product model
 Product.init(
-  //Product/ id, product_name, price, stock, category_id that references model's id
+  //Product/ id, product_name, price, stock, category_id that renpmferences model's id
   {
     // define columns
     id: {

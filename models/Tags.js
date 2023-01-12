@@ -23,7 +23,6 @@ Tag.init(
     underscored: true,
     modelName: "tag",
   }
-  // define columns
 );
 
 module.exports = Tag;
